@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://media1.tenor.com/m/_U8l85Rj7FwAAAAd/rem-re-zero-re-zero.gif" alt="Рем сушит волосы" width="300" height="200">
 <!--
 **skilltrik/skilltrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
