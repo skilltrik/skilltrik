@@ -13,6 +13,6 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/skilltrik?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <img src="https://media.tenor.com/Xrt5kXn6IzwAAAAi/rem-re-zero.gif" alt="yes" width="30" height="30">
 </p>
-### 📋 Моя статистика
 
+###  Моя статистика
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skilltrik&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
