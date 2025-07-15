@@ -14,4 +14,5 @@
   <img src="https://media.tenor.com/Xrt5kXn6IzwAAAAi/rem-re-zero.gif" alt="yes" width="30" height="30">
 </p>
 ### 📋 Моя статистика
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skilltrik&show_icons=true&theme=tokyonight)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skilltrik&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
